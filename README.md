@@ -15,6 +15,9 @@ Requirements: Software
 * Microvsion Keil
 * STM32CubeIDE
 
+Hardware
+* STM32F407
+
 ### REGISTERS
 ADC status register (ADC_SR):  This Register is used to check the status of the bits.
 ADC control register 1(ADC_CRI): This Register is used to set ADC parameter resolution and change modes.
